@@ -1,0 +1,23 @@
+﻿1>------ Build started: Project: 184101010_Testing_HMM_Model, Configuration: Debug Win32 ------
+1>Build started 10-11-2018 19:55:40.
+1>InitializeBuildStatus:
+1>  Creating "Debug\184101010_Testing_HMM_Model.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  All outputs are up-to-date.
+1>  184101010_Testing_HMM_Model.cpp
+1>c:\users\krishh\documents\visual studio 2010\projects\184101010_testing_hmm_model\184101010_testing_hmm_model\184101010_testing_hmm_model.cpp(395): warning C4789: destination of memory copy is too small
+1>ManifestResourceCompile:
+1>  All outputs are up-to-date.
+1>Manifest:
+1>  All outputs are up-to-date.
+1>LinkEmbedManifest:
+1>  All outputs are up-to-date.
+1>  184101010_Testing_HMM_Model.vcxproj -> C:\Users\Krishh\Documents\Visual Studio 2010\Projects\184101010_Testing_HMM_Model\Debug\184101010_Testing_HMM_Model.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\184101010_Testing_HMM_Model.unsuccessfulbuild".
+1>  Touching "Debug\184101010_Testing_HMM_Model.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:01.90
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
